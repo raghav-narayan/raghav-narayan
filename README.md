@@ -1,111 +1,94 @@
-## 🚀 About Me
+# **👋 Hi, I’m Raghav Narayan!**  
 
-Hi, I'm **Raghav Narayan**, a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. I have **3+ years of professional experience**, including my time as a **Software Engineer Intern at NVIT** and **Full-Stack AI Developer at Cognizant**.
+Welcome to my GitHub! I’m a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. I have **3+ years of experience** in building **scalable applications, AI-driven solutions, and optimizing full-stack workflows**. Currently, I am a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at The University of Texas at Arlington (GPA: 4.0)**.  
 
-I specialize in building **scalable, high-performance applications**, leveraging **machine learning and AI-powered solutions** to enhance user experiences. Currently, I am pursuing my **Master’s in Computer Science at The University of Texas at Arlington** and maintaining a **3.9 GPA**.
-
-I enjoy **solving complex problems, contributing to open-source projects**, and staying up to date with **cutting-edge technologies**. Let's connect and build something innovative!
+I’m passionate about **developing high-performance web applications, integrating AI, and leveraging cloud technologies** to solve real-world problems.  
 
 ---
 
-## 🌐 Connect with Me
+## **🌐 Connect with Me**  
 
-- **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)
-- **GitHub:** [github.com/raghav-narayan](https://github.com/raghav-narayan)
-- **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)
-- **Blog:** [technotronic.medium.com](https://technotronic.medium.com/)
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-JavaScript (ES6+), TypeScript, Python, Java, C++
-
-### Frontend Development
-React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind, AEM (Adobe Experience Manager)
-
-### Backend Development
-Node.js, Express.js, Django
-
-### Database Technologies
-MongoDB, PostgreSQL, MySQL, Cosmos DB
-
-### Cloud & DevOps
-Azure DevOps, Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD Pipelines
-
-### AI & Machine Learning
-Machine Learning, Deep Learning, NLP, TensorFlow, Scikit-Learn, Language Studio
-
-### Development & Productivity Tools
-Git, GitHub, Visual Studio Code, IntelliJ, Jira, Linux, Postman
+📩 **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)  
+📂 **GitHub:** [github.com/raghav-narayan](https://github.com/raghav-narayan)  
+📝 **Blog:** [technotronic.medium.com](https://technotronic.medium.com/)  
+📄 **Resume:** [View PDF](https://drive.google.com/file/d/1B3PuUgo_4a-mY19BmWLu7sAnretus1Z6/view?usp=sharing)  
 
 ---
 
-## 🎓 Education
+## **🛠️ Skills & Expertise**  
 
-- **Master of Science in Computer Science**
-  *The University of Texas at Arlington* (August 2023 – December 2025)
-  **GPA:** 4.0
+### **Programming & Development**  
+- JavaScript (ES6+), TypeScript, Python, Java, C++  
+- React.js, Redux, Next.js, Node.js, Express.js  
+- HTML, CSS, Bootstrap, Tailwind  
 
-- **Bachelor of Technology (Honors) in Electronics & Instrumentation**
-  *SASTRA University, India* (August 2016 – June 2020)
+### **Backend & Databases**  
+- MongoDB, PostgreSQL, MySQL, Cosmos DB  
+- API Development (REST), Microservices, Authentication  
 
----
+### **Cloud & DevOps**  
+- Azure DevOps, Google Cloud Platform (GCP), Docker, Kubernetes  
+- CI/CD Pipelines, Git, GitHub, Postman  
 
-## 👨‍💻 Professional Experience
-
-### NVIT | Software Engineer Intern (Full-Stack) *(January 2025 – Present)*
-- Designed and developed **AI-driven web applications**, improving **user engagement and efficiency**.
-- Built **scalable APIs with Node.js**, optimizing **server-side logic and reducing response time**.
-- Integrated **AI/ML techniques into applications**, enhancing **data-driven decision-making**.
-
-### Graduate Assistant | The University of Texas at Arlington *(February 2024 – January 2025)*
-- Assisted with **student advising, document review, and process management** for international students.
-- Ensured **efficient office operations** by managing **policies, procedures, and communications**.
-
-### Cognizant | Backend Developer (Conversational AI) *(September 2021 – July 2023)*
-- Developed **multilingual chatbot features** for **15+ markets**, using **Node.js**, leading to a **30% increase in lead conversion**.
-- Streamlined **production deployments**, reducing **post-release incidents** by improving **workflow automation**.
-- Analyzed and integrated **upstream/downstream APIs**, enhancing **product functionality and data communication**.
-- Facilitated **Agile sprint ceremonies**, including **planning, retrospectives, and demos**.
-
-### Cognizant | Frontend Developer (Omni-Channel) *(August 2020 – August 2021)*
-- Gained expertise in **MERN stack development**, building an **e-commerce web app** with **React and Redux**.
-- Conducted **QA testing** on web components, ensuring compatibility across **different viewports and browsers**.
-- Worked with **Adobe Experience Manager (AEM)** for **component creation and template development**.
-- Led **technical training sessions**, enhancing **team collaboration and best practices**.
+### **AI & Machine Learning**  
+- TensorFlow, NLP, Scikit-learn, Feature Engineering  
+- AI-driven chatbots, Conversational AI, Data Analytics  
 
 ---
 
-## 🚀 Projects
+## **👨‍💻 Professional Experience**  
 
-### 📌 AI-Powered Attendance System *(MERN | AI | Face Recognition)*
-- Developed a **secure, AI-driven attendance system** integrating **Azure AI Face Liveness Detection**.
-- Automated **real-time face recognition and verification**, eliminating **spoofing and unauthorized check-ins**.
+### **NVIT | Software Engineer Intern (Full-Stack)** *(Jan 2025 – Present)*  
+- Developing **AI-driven web applications** to enhance **user engagement and performance**.  
+- Optimizing **server-side APIs with Node.js (Express)** to improve response times.  
+- Integrating **AI/ML models** for data-driven decision-making.  
 
-### 📌 Financio - Expense Tracking App *(MERN | REST API | Chart.js)*
-- Designed an **expense tracking app** with **real-time data visualization**.
-- Optimized **API performance**, reducing **system bugs by 60%** through **end-to-end testing**.
+### **Graduate Assistant | The University of Texas at Arlington** *(Feb 2024 – Jan 2025)*  
+- Managed **student advising, process workflows, and document reviews** for international students.  
+- Ensured **efficiency and clear communication** across office operations.  
 
-### 📌 Cloudinary AI-powered SaaS *(Next.js | TypeScript | Cloudinary AI | Tailwind)*
-- Built an **AI-powered SaaS for media transformation** with **image and video processing capabilities**.
-- Integrated **secure authentication using Clerk and JWT**.
+### **Cognizant | Backend Developer (Conversational AI)** *(Sept 2021 – July 2023)*  
+- Developed **multilingual chatbot features** serving **15+ markets**, improving lead conversion by **30%**.  
+- Implemented **CI/CD pipelines (Azure DevOps)** to **reduce post-release incidents**.  
+- Integrated **external APIs** and optimized **JSON processing**, improving throughput by **25%**.  
 
-### 📌 Machine Learning & Data Science Projects *(Pandas | Scikit-Learn | TensorFlow)*
-- Implemented **custom TF-IDF and Bag of Words algorithms**, optimizing **text processing**.
-- Developed an **SGD Classifier** with **log loss and L2 regularization**.
-
----
-
-## 📜 Certifications
-
-- **Cloud Engineering with Google Cloud Specialization**
-- **Applied AI & Machine Learning**
-- **Introduction to Internet of Things**
+### **Cognizant | Frontend Developer (Omni-Channel)** *(Aug 2020 – Aug 2021)*  
+- Built and optimized **React.js-based UI components** for an e-commerce platform.  
+- Conducted **QA testing, debugging, and performance enhancements**.  
+- Worked with **Adobe Experience Manager (AEM)** for template development.  
 
 ---
 
-## 📊 GitHub Stats
+## **🚀 Notable Projects**  
+
+### **📌 AI-Powered Attendance System** *(MERN | AI | Face Recognition)*  
+- Built an **AI-driven attendance tracking system** with **Azure AI Face Liveness Detection**.  
+- Automated **real-time face verification**, eliminating **spoofing and unauthorized check-ins**.  
+
+### **📌 Financio - Expense Tracker** *(MERN | REST API | Chart.js)*  
+- Developed a **full-stack expense tracker** with **real-time data visualization**.  
+- Optimized API performance, reducing **system bugs by 60%**.  
+
+### **📌 Cloudinary AI-powered SaaS** *(Next.js | TypeScript | Cloudinary AI | Tailwind)*  
+- Built an **AI-based SaaS platform** for **media transformation and compression**.  
+- Integrated **secure authentication using Clerk and JWT**.  
+
+### **📌 Machine Learning & Data Science Projects** *(Pandas | Scikit-Learn | TensorFlow)*  
+- Developed **custom TF-IDF and Bag of Words implementations** for NLP.  
+- Implemented a **custom SGD Classifier with log loss and L2 regularization**.  
+
+---
+
+## **📜 Certifications**  
+
+- **Cloud Engineering with Google Cloud Specialization**  
+- **Applied AI & Machine Learning**  
+- **Introduction to Internet of Things**  
+
+---
+
+## **📊 GitHub Stats**  
 
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav-narayan&theme=github_dark" alt="Profile Details" />
@@ -121,4 +104,14 @@ Git, GitHub, Visual Studio Code, IntelliJ, Jira, Linux, Postman
 
 ---
 
-## Thank you for visiting my profile! Let’s connect and collaborate! 🚀
+## **Let’s Connect & Build Something Great!** 🚀  
+
+---
+
+### ✅ **Why This is the Best Version for You:**  
+✔ **Concise, yet detailed enough to showcase your expertise**  
+✔ **Professional and structured for readability**  
+✔ **Highlights your experience and projects effectively**  
+✔ **No excessive spacing, keeping it well-formatted**  
+
+Let me know if you'd like any final tweaks! 🚀🔥
