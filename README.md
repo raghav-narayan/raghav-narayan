@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Raghav Narayan**, a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. I have **3+ years of professional experience**, including my time as a **Software Engineer Intern at NVIT** and a **Full-Stack AI Developer at Cognizant**.
+Hi, I'm **Raghav Narayan**, a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. I have **3+ years of professional experience**, including my time as a **Software Engineer Intern at NVIT** and **Full-Stack AI Developer at Cognizant**.
 
-I specialize in building **scalable, high-performance applications**, leveraging **machine learning and AI-powered solutions** to enhance user experiences. Currently, I am pursuing my **Master’s in Computer Science at The University of Texas at Arlington** and maintaining a **4.0 GPA**.
+I specialize in building **scalable, high-performance applications**, leveraging **machine learning and AI-powered solutions** to enhance user experiences. Currently, I am pursuing my **Master’s in Computer Science at The University of Texas at Arlington** and maintaining a **3.9 GPA**.
 
 I enjoy **solving complex problems, contributing to open-source projects**, and staying up to date with **cutting-edge technologies**. Let's connect and build something innovative!
 
@@ -16,8 +16,6 @@ I enjoy **solving complex problems, contributing to open-source projects**, and 
 - **GitHub:** [github.com/raghav-narayan](https://github.com/raghav-narayan)
 - **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)
 - **Blog:** [technotronic.medium.com](https://technotronic.medium.com/)
-- **Resume:** [View PDF](https://drive.google.com/file/d/1B3PuUgo_4a-mY19BmWLu7sAnretus1Z6/view?usp=sharing)
-
 ---
 
 ## 🛠️ Technical Skills
