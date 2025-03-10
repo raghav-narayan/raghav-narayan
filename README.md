@@ -1,118 +1,128 @@
-### **🚀 Raghav Narayan**
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+# Raghav Narayan
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif" alt="Hello World GIF">
-</p>
+## 🚀 About Me
 
-## 👋 About Me  
+Hi, I'm **Raghav Narayan**, a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. I have **3+ years of professional experience**, including my time as a **Software Engineer Intern at NVIT** and a **Full-Stack AI Developer at Cognizant**.
 
-Hi, I'm **Raghav Narayan**! A passionate **Full-Stack Developer** with **3+ years of experience** in **MERN, AI, and cloud-native development**. Currently pursuing my **Master’s in Computer Science at the University of Texas at Arlington (Graduation: December 2025)**. I specialize in **building scalable, high-performance applications**, integrating **AI-driven solutions**, and optimizing full-stack workflows.  
+I specialize in building **scalable, high-performance applications**, leveraging **machine learning and AI-powered solutions** to enhance user experiences. Currently, I am pursuing my **Master’s in Computer Science at The University of Texas at Arlington** and maintaining a **4.0 GPA**.
 
-🚀 I love **exploring new technologies, working on innovative projects**, and collaborating with **open-source communities**.  
+I enjoy **solving complex problems, contributing to open-source projects**, and staying up to date with **cutting-edge technologies**. Let's connect and build something innovative!
 
 ---
 
-### 🌐 **Connect with Me**  
+## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:raghav.narayan.98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raghav-narayan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raghav-narayan98)
-[![Blog](https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium)](https://technotronic.medium.com/)  
-
----
-
-## 🛠️ **Technical Skills**  
-
-### **Frontend Development**  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind)  
-
-### **Backend Development**  
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java)  
-
-### **Database Technologies**  
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql)  
-
-### **DevOps & Cloud Technologies**  
-![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://skillicons.dev/icons?i=github)  
-
-### **AI & Data Science**  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellow?style=for-the-badge) ![NLP](https://img.shields.io/badge/-NLP-blue?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge)  
+- **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)
+- **GitHub:** [github.com/raghav-narayan](https://github.com/raghav-narayan)
+- **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)
+- **Blog:** [technotronic.medium.com](https://technotronic.medium.com/)
+- **Resume:** [View PDF](https://drive.google.com/file/d/1B3PuUgo_4a-mY19BmWLu7sAnretus1Z6/view?usp=sharing)
 
 ---
 
-## 🎓 **Education**  
+## 🛠️ Technical Skills
 
-- **Master of Science in Computer Science**  
-  **University of Texas at Arlington**, TX, USA (Expected December 2025)  
-  **GPA:** 4.0  
-  **Relevant Courses:** Data Structures & Algorithms, Distributed Systems, Data Modeling & Analysis  
+### Programming Languages
+JavaScript (ES6+), TypeScript, Python, Java, C++
 
-- **Bachelor of Technology in Electronics and Instrumentation**  
-  **SASTRA University, India** (June 2020)  
+### Frontend Development
+React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind, AEM (Adobe Experience Manager)
 
----
+### Backend Development
+Node.js, Express.js, Django
 
-## 👨‍💻 **Professional Experience**  
+### Database Technologies
+MongoDB, PostgreSQL, MySQL, Cosmos DB
 
-### **NVIT | Software Engineer Intern (Full-Stack)** *(Jan 2025 – Present)*  
-🔹 Designed and developed **AI-driven web apps** to enhance user engagement.  
-🔹 Built **scalable APIs with Node.js**, reducing response time.  
-🔹 Integrated **AI/ML techniques** into applications, improving data-driven decision-making.  
+### Cloud & DevOps
+Azure DevOps, Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD Pipelines
 
-### **Graduate Assistant | Office of International Education, UTA** *(Feb 2024 – Jan 2025)*  
-🔹 Assisted with **student advising, policy management, and document verification** for efficient operations.  
+### AI & Machine Learning
+Machine Learning, Deep Learning, NLP, TensorFlow, Scikit-Learn, Language Studio
 
-### **Cognizant | Backend Developer (Conversational AI)** *(Sep 2021 – Jul 2023)*  
-🔹 Developed **multilingual chatbot features** for **15+ markets** using **Node.js**.  
-🔹 Collaborated with **DevOps teams** to streamline production deployment and reduce incidents.  
-🔹 Led sprint ceremonies, including **planning, retrospectives, and demos**.  
-
-### **Cognizant | Frontend Developer (Omni-Channel)** *(Aug 2020 - Aug 2021)*  
-🔹 Built **e-commerce UI components** using **React, Redux, and Express.js**.  
-🔹 Conducted **QA testing** and improved **design consistency and responsiveness**.  
-🔹 Led **technical knowledge-sharing sessions** for team members.  
+### Development & Productivity Tools
+Git, GitHub, Visual Studio Code, IntelliJ, Jira, Linux, Postman
 
 ---
 
-## 🚀 **Projects**  
+## 🎓 Education
 
-### **📌 AI-powered Attendance System** *(React | Node.js | FastAPI | PostgreSQL | Azure AI)*  
-🔹 Developed a **face liveness detection system** for secure attendance tracking.  
-🔹 Integrated **Azure AI Face API** to ensure real-time liveness verification.  
-🔹 Reduced fraud and **optimized authentication accuracy** by 30%.  
-🔹 **GitHub Repo:** [🔗](#)  
+- **Master of Science in Computer Science**
+  *The University of Texas at Arlington* (August 2023 – December 2025)
+  **GPA:** 4.0
 
-### **📌 Financio** *(MERN | REST API | Chart.js)*  
-🔹 Developed an **expense tracking app** with a responsive UI and real-time **data visualization** using **Chart.js**.  
-🔹 **GitHub Repo:** [🔗](#)  
+- **Bachelor of Technology (Honors) in Electronics & Instrumentation**
+  *SASTRA University, India* (August 2016 – June 2020)
 
 ---
 
-## 📜 **Certifications**  
+## 👨‍💻 Professional Experience
 
-- **Applied Machine Learning**  
-- **Cloud Engineering with Google Cloud (GCP)**  
-- **Oracle Cloud Infrastructure Foundations**  
+### NVIT | Software Engineer Intern (Full-Stack) *(January 2025 – Present)*
+- Designed and developed **AI-driven web applications**, improving **user engagement and efficiency**.
+- Built **scalable APIs with Node.js**, optimizing **server-side logic and reducing response time**.
+- Integrated **AI/ML techniques into applications**, enhancing **data-driven decision-making**.
+
+### Graduate Assistant | The University of Texas at Arlington *(February 2024 – January 2025)*
+- Assisted with **student advising, document review, and process management** for international students.
+- Ensured **efficient office operations** by managing **policies, procedures, and communications**.
+
+### Cognizant | Backend Developer (Conversational AI) *(September 2021 – July 2023)*
+- Developed **multilingual chatbot features** for **15+ markets**, using **Node.js**, leading to a **30% increase in lead conversion**.
+- Streamlined **production deployments**, reducing **post-release incidents** by improving **workflow automation**.
+- Analyzed and integrated **upstream/downstream APIs**, enhancing **product functionality and data communication**.
+- Facilitated **Agile sprint ceremonies**, including **planning, retrospectives, and demos**.
+
+### Cognizant | Frontend Developer (Omni-Channel) *(August 2020 – August 2021)*
+- Gained expertise in **MERN stack development**, building an **e-commerce web app** with **React and Redux**.
+- Conducted **QA testing** on web components, ensuring compatibility across **different viewports and browsers**.
+- Worked with **Adobe Experience Manager (AEM)** for **component creation and template development**.
+- Led **technical training sessions**, enhancing **team collaboration and best practices**.
 
 ---
 
-## 📊 **GitHub Stats**  
+## 🚀 Projects
+
+### 📌 AI-Powered Attendance System *(MERN | AI | Face Recognition)*
+- Developed a **secure, AI-driven attendance system** integrating **Azure AI Face Liveness Detection**.
+- Automated **real-time face recognition and verification**, eliminating **spoofing and unauthorized check-ins**.
+
+### 📌 Financio - Expense Tracking App *(MERN | REST API | Chart.js)*
+- Designed an **expense tracking app** with **real-time data visualization**.
+- Optimized **API performance**, reducing **system bugs by 60%** through **end-to-end testing**.
+
+### 📌 Cloudinary AI-powered SaaS *(Next.js | TypeScript | Cloudinary AI | Tailwind)*
+- Built an **AI-powered SaaS for media transformation** with **image and video processing capabilities**.
+- Integrated **secure authentication using Clerk and JWT**.
+
+### 📌 Machine Learning & Data Science Projects *(Pandas | Scikit-Learn | TensorFlow)*
+- Implemented **custom TF-IDF and Bag of Words algorithms**, optimizing **text processing**.
+- Developed an **SGD Classifier** with **log loss and L2 regularization**.
+
+---
+
+## 📜 Certifications
+
+- **Cloud Engineering with Google Cloud Specialization**
+- **Applied AI & Machine Learning**
+- **Introduction to Internet of Things**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav-narayan&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav-narayan&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghav-narayan&&count_private=true&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-narayan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
-### **Thank you for visiting my profile! Let's connect and collaborate!** 🚀  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## Thank you for visiting my profile! Let’s connect and collaborate! 🚀
