@@ -1,5 +1,3 @@
-# Raghav Narayan
-
 ## 🚀 About Me
 
 Hi, I'm **Raghav Narayan**, a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. I have **3+ years of professional experience**, including my time as a **Software Engineer Intern at NVIT** and **Full-Stack AI Developer at Cognizant**.
