@@ -34,8 +34,10 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud technolog
 ## **👨‍💻 Experience**  
 
 ### **NVIT | Software Engineer Intern** *(Jan 2025 – Present)*  
-- Developing **AI-driven web apps** with **MERN stack** to improve **user engagement & performance**.  
-- Optimizing **backend APIs and database workflows** for scalability.  
+- Developing a scalable local government management system (ILMS) using React, Node.js, FastAPI microservice, and PostgreSQL, integrating AI-driven automation for attendance tracking, payroll processing, and role-based access control
+- Implemented AI-powered liveness detection & face verification using Azure Face API, ensuring secure, automated attendance with geofencing-based validation, enabling robust anti-spoofing
+- Built a real-time admin dashboard consolidating workforce insights, operational data, and system analytics, enhancing decision-making and transparency
+
 
 ### **Graduate Assistant | UTA** *(Feb 2024 – Jan 2025)*  
 - Managed **student advising, workflow automation, and document reviews**.  
