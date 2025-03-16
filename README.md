@@ -1,15 +1,13 @@
 # **👋 Hi, I’m Raghav Narayan!**  
 
-I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. Passionate about **scalable applications, AI-driven solutions, and optimizing cloud-based workflows**, I have **3+ years of experience** building and optimizing **AI-powered web applications serving 10M+ users**. Currently, I'm a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.89)**.  
-
-📍 *Open to remote roles | Northern California candidates preferred*  
-
+I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. Passionate about **scalable applications, AI-driven solutions, and optimizing cloud-based workflows**, I have **3+ years of experience** building and optimizing **AI-powered web applications serving 10M+ users**. Currently, I'm a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.89)**. 
+  
 ---
 
 ## **🌎 Portfolio & Contact**  
 
 📂 **GitHub (Projects & Code):** [github.com/raghav-narayan](https://github.com/raghav-narayan)  
-📝 **Blog (AI, Web & Cloud Tech):** [technotronic.medium.com](https://technotronic.medium.com/)  
+📝 **Blog (AI, Web & Software Engineering):** [technotronic.medium.com](https://technotronic.medium.com/)  
 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1B3PuUgo_4a-mY19BmWLu7sAnretus1Z6/view?usp=sharing)  
 💼 **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)  
 📩 **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)  
