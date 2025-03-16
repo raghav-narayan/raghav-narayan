@@ -7,8 +7,7 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native te
 ## **🌎 Portfolio & Contact**  
 
 📂 **GitHub (Projects & Code):** [github.com/raghav-narayan](https://github.com/raghav-narayan)  
-📝 **Blog (AI, Web & Software Engineering):** [technotronic.medium.com](https://technotronic.medium.com/)  
-📄 **Resume:** [View PDF](https://drive.google.com/file/d/1B3PuUgo_4a-mY19BmWLu7sAnretus1Z6/view?usp=sharing)  
+📝 **Blog (AI, Web & Software Engineering):** [technotronic.medium.com](https://technotronic.medium.com/)   
 💼 **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)  
 📩 **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)  
 
