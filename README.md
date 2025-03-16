@@ -1,78 +1,78 @@
 # **👋 Hi, I’m Raghav Narayan!**  
 
-I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud technologies**, specializing in **scalable applications, AI-driven solutions, and cloud-based automation**. Currently, I'm a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 4.0)**. Passionate about **building high-performance applications, integrating AI, and optimizing cloud-based workflows**.  
+I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. Passionate about **scalable applications, AI-driven solutions, and optimizing cloud-based workflows**, I have **3+ years of experience** building and optimizing **AI-powered web applications serving 10M+ users**. Currently, I'm a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.89)**.  
+
+📍 *Open to remote roles | Northern California candidates preferred*  
 
 ---
 
-## **🌐 Connect with Me**  
+## **🌎 Portfolio & Contact**  
 
-📩 **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)  
-📂 **GitHub:** [github.com/raghav-narayan](https://github.com/raghav-narayan)  
-📝 **Blog:** [technotronic.medium.com](https://technotronic.medium.com/)  
+📂 **GitHub (Projects & Code):** [github.com/raghav-narayan](https://github.com/raghav-narayan)  
+📝 **Blog (AI, Web & Cloud Tech):** [technotronic.medium.com](https://technotronic.medium.com/)  
 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1B3PuUgo_4a-mY19BmWLu7sAnretus1Z6/view?usp=sharing)  
+💼 **LinkedIn:** [linkedin.com/in/raghav-narayan98](https://www.linkedin.com/in/raghav-narayan98)  
+📩 **Email:** [raghav.narayan.98@gmail.com](mailto:raghav.narayan.98@gmail.com)  
 
 ---
 
-## **🛠️ Skills & Expertise**  
+## **🛠️ Technical Skills**  
 
 ### **Full-Stack Development**  
-- **Frontend:** React.js, Next.js, Redux, Tailwind, Bootstrap  
-- **Backend:** Node.js, Express.js, RESTful API Development  
+- **Frontend:** React.js, Next.js, Redux, Tailwind, Bootstrap, HTML, CSS, jQuery  
+- **Backend:** Node.js, Express.js, REST APIs, WebSockets  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
 
 ### **Cloud & DevOps**  
-- **Platforms:** Azure DevOps, Google Cloud Platform (GCP)  
-- **Technologies:** Docker, Kubernetes, CI/CD Pipelines, Git, GitHub Actions  
+- **Platforms:** Azure, Google Cloud (GCP)  
+- **Tools:** Docker, Kubernetes, CI/CD Pipelines, GitHub Actions, Bitbucket  
 
 ### **AI & Machine Learning**  
 - **Frameworks:** TensorFlow, Scikit-learn, OpenCV  
-- **Key Areas:** NLP, Face Recognition, Feature Engineering, AI-based Automation  
+- **Key Areas:** NLP, Face Recognition, Deep Learning, AI-driven Automation  
 
 ---
 
-## **👨‍💻 Experience**  
+## **👨‍💻 Professional Experience**  
 
 ### **NVIT | Software Engineer Intern** *(Jan 2025 – Present)*  
-- Developing a scalable local government management system (ILMS) using React, Node.js, FastAPI microservice, and PostgreSQL, integrating AI-driven automation for attendance tracking, payroll processing, and role-based access control
-- Implemented AI-powered liveness detection & face verification using Azure Face API, ensuring secure, automated attendance with geofencing-based validation, enabling robust anti-spoofing
-- Built a real-time admin dashboard consolidating workforce insights, operational data, and system analytics, enhancing decision-making and transparency
+- **Developing a scalable local government management system** (ILMS) using **React, Node.js, and FastAPI**, integrating **AI-driven automation** for **attendance tracking, payroll processing, and role-based access control**.  
+- **Implemented AI-powered liveness detection** & face verification using **Azure Face API**, enabling **secure attendance with geofencing-based validation**.  
+- **Built a real-time admin dashboard** consolidating workforce insights and analytics, improving transparency & decision-making.  
 
+### **Cognizant | Backend Developer (Conversational AI)** *(Oct 2021 – Feb 2023)*  
+- **Engineered high-performance chatbot features** using **Node.js (Express)** for a **European automotive client** serving **12+ countries**, increasing **lead conversion by $1M+**.  
+- **Implemented CI/CD pipelines with Git & TDD**, reducing software bugs by **30%**.  
+- **Leveraged Azure Language Studio** to enhance chatbot Q&A capabilities, intent recognition, and entity extraction.  
+- **Optimized large-scale JSON processing**, improving throughput by **15%**.  
+- **Reduced production incidents by 30%** through optimized deployments & Root Cause Analysis.  
 
-### **Graduate Assistant | UTA** *(Feb 2024 – Jan 2025)*  
-- Managed **student advising, workflow automation, and document reviews**.  
-
-### **Cognizant | Backend Developer (Conversational AI)** *(Sept 2021 – July 2023)*  
-- Built **multilingual chatbot features**, improving **lead conversion by 30%**.  
-- Integrated **external APIs, CI/CD pipelines (Azure DevOps)**, reducing **post-release issues**.  
-- **Optimized large-scale JSON processing**, increasing system throughput by **25%**.  
-
-### **Cognizant | Frontend Developer** *(Aug 2020 – Aug 2021)*  
-- Developed **React.js UI components** for an **e-commerce platform**.  
-- Conducted **QA testing, debugging, and UI optimizations**.  
-- Led **technical knowledge-sharing sessions** for frontend best practices.  
+### **Cognizant | Frontend Developer** *(Aug 2020 – Sep 2021)*  
+- Developed **React.js UI components** for a **global e-commerce client**, enhancing user experience and accessibility.  
+- Resolved **30+ UI/UX issues** related to **design consistency, responsiveness, and functionality**.  
+- Led **10+ technical sessions** on frontend best practices and code reviews.  
 
 ---
 
-## **🚀 Notable Projects**  
+## **🚀 Featured Projects**  
 
 ### **📌 AI-Powered Smart Attendance & Identity Verification System** *(MERN | AI | Azure | Face Recognition)*  
 - **Built a secure AI-powered identity verification and attendance system** using **Azure AI Liveness Detection & Face Recognition**.  
-- Integrated **real-time facial authentication** with **fraud prevention measures**, eliminating unauthorized check-ins.  
-- Developed a **full-stack web interface using React.js** for seamless **clock-in/clock-out automation**.  
-- Implemented **secure cloud-based storage for user records**, ensuring compliance with **data protection standards**.  
+- **Fraud prevention:** Real-time facial authentication to eliminate unauthorized check-ins.  
+- **Automated clock-in/out** with a **React.js frontend & Express.js backend**.  
+- **Secure cloud storage for records**, ensuring **data protection compliance**.  
 
 ### **📌 Financio - Expense Tracker** *(MERN | REST API | Chart.js)*  
-- Developed a **full-stack expense tracker** with **real-time financial analytics and data visualization**.  
-- Optimized **API performance**, reducing **system latency and bugs by 60%**.  
+- **Developed a full-stack expense tracker** with **real-time financial analytics & data visualization**.  
+- **Optimized API performance**, reducing **system latency by 60%**.  
 
 ### **📌 Cloudinary AI-powered SaaS** *(Next.js | TypeScript | Cloudinary AI)*  
-- Built an **AI-powered SaaS platform** for **media transformation, image resizing, and compression**.  
-- Integrated **secure authentication using Clerk and JWT**.  
+- **Built an AI-powered SaaS platform** for **media transformation, image processing, and video compression**.  
+- **Integrated secure authentication** using Clerk & JWT.  
 
 ### **📌 Machine Learning & AI Projects** *(Pandas | Scikit-Learn | TensorFlow)*  
-- Developed **custom TF-IDF and Bag of Words models** for **text processing and NLP applications**.  
-- Implemented a **custom SGD Classifier with log loss and L2 regularization** for ML-based classification tasks.  
+- **Developed custom NLP vectorizers (TF-IDF, BoW) for AI-driven applications**.  
+- **Built a custom SGD Classifier** with **log loss & L2 regularization** for AI classification tasks.  
 
 ---
 
@@ -81,4 +81,6 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud technolog
 - **Cloud Engineering with Google Cloud Specialization**  
 - **Applied AI & Machine Learning**  
 
-## **Let’s Connect & Build Something Great!** 🚀  
+---
+
+## **Let's Connect & Build Something Great! 🚀**  
