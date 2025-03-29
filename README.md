@@ -52,13 +52,6 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native te
 ---
 
 ## **🚀 Featured Projects**  
-
-### **📌 AI-Powered Smart Attendance & Identity Verification System** *(MERN | AI | Azure | Face Recognition)*  
-- **Built a secure AI-powered identity verification and attendance system** using **Azure AI Liveness Detection & Face Recognition**.  
-- **Fraud prevention:** Real-time facial authentication to eliminate unauthorized check-ins.  
-- **Automated clock-in/out** with a **React.js frontend & Express.js backend**.  
-- **Secure cloud storage for records**, ensuring **data protection compliance**.  
-
 ### **📌 Financio - Expense Tracker** *(MERN | REST API | Chart.js)*  
 - **Developed a full-stack expense tracker** with **real-time financial analytics & data visualization**.  
 - **Optimized API performance**, reducing **system latency by 60%**.  
