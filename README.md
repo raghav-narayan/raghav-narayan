@@ -1,6 +1,6 @@
 # **👋 Hi, I’m Raghav Narayan!**  
 
-I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. Passionate about **scalable applications, AI-driven solutions, and optimizing cloud-based workflows**, I have **3+ years of experience** building and optimizing **AI-powered web applications serving 10M+ users**. Currently, I'm a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.89)**. 
+I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native technologies**. Passionate about **scalable applications, AI-driven solutions, and optimizing cloud-based workflows**, I have **3+ years of experience** building and optimizing **AI-powered web applications serving 10M+ users**. Currently, I'm a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.9)**. 
   
 ---
 
