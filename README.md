@@ -32,7 +32,7 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native te
 
 ## **👨‍💻 Professional Experience**  
 
-### **NVIT | Software Engineer Intern** *(Jan 2025 – Present)*  
+### **NVIT | Software Engineer Intern** *(Jan 2025 – May 2025)*  
 - **Developing a scalable local government management system** (ILMS) using **React, Node.js, and FastAPI**, integrating **AI-driven automation** for **attendance tracking, payroll processing, and role-based access control**.  
 - **Implemented AI-powered liveness detection** & face verification using **Azure Face API**, enabling **secure attendance with geofencing-based validation**.  
 - **Built a real-time admin dashboard** consolidating workforce insights and analytics, improving transparency & decision-making.  
