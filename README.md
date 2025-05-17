@@ -73,4 +73,11 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native te
 
 ---
 
+## **🧠 LeetCode Stats**  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav_Narayan?theme=light&font=Source+Code+Pro&ext=heatmap)  
+> 🧩 Solving real-world problems one question at a time!  
+
+---
+
 ## **Let's Connect & Build Something Great! 🚀**  
