@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Raghav Narayan!
 
-I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native tech**. Passionate about building **scalable, AI-powered web applications**, I've helped optimize AI-driven systems serving **12+ countries**. I'm currently a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.9)**.
+I'm a **Full-Stack Developer** passionate about building **scalable, AI-powered web applications** using **MERN stack**, **Python**, and **cloud-native architectures**. I’ve helped optimize intelligent systems serving **1M+ users across 12+ countries**. Currently, I’m a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.9)**.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=raghav-narayan&style=flat-square&color=blue)
 
 ---
 
@@ -16,43 +18,43 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native te
 ## 🛠️ Skills Snapshot  
 
 ### 🧑‍💻 Full-Stack & Web  
-- **Frontend:** React, Next.js, Redux, Tailwind, HTML/CSS  
-- **Backend:** Node.js, Express, WebSockets  
+- **Frontend:** React, Next.js, Redux, HTML/CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, FastAPI, WebSockets  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
 
 ### ☁️ Cloud & DevOps  
 - **Platforms:** Azure, GCP  
-- **Tools:** Docker, Kubernetes, GitHub Actions, CI/CD  
+- **Tools:** Docker, GitHub Actions, CI/CD, Kubernetes  
 
 ### 🧠 AI & ML  
 - **Frameworks:** TensorFlow, Scikit-learn, OpenCV  
-- **Focus:** NLP, Face Recognition, Deep Learning, Automation  
+- **Focus Areas:** NLP, Face Recognition, Deep Learning, Automation  
 
 ---
 
 ## 👨‍💼 Experience  
 
 ### 🚀 NVIT – Software Engineer Intern *(Jan 2025 – May 2025)*  
-- Built a **smart local gov ILMS** using **React, FastAPI, Node.js**  
-- Integrated **Azure Face API** for **AI-driven attendance & geofencing**  
-- Created a **real-time admin dashboard** with actionable insights  
+- Built a **smart local gov ILMS** platform using **React, Node.js, PostgreSQL**
+- Integrated **Azure Face API + Flask microservices** for AI-driven attendance & geofencing  
+- Developed **real-time dashboards** and automated deployment pipelines via Azure DevOps  
 
 ### 🤖 Cognizant – Backend Developer, Conversational AI *(Oct 2021 – Feb 2023)*  
 - Developed chatbot features for **12+ countries**, boosting **lead conversion by $1M+**  
-- Enhanced NLU with **Azure Language Studio** and optimized JSON pipelines  
-- Reduced bugs by 30% with **CI/CD & TDD** practices  
+- Enhanced NLU with **Azure Language Studio** and optimized JSON workflows  
+- Reduced bugs by 30% using **TDD, CI/CD, and Git**  
 
 ### 🎨 Cognizant – Frontend Developer *(Aug 2020 – Sep 2021)*  
-- Delivered responsive UIs for a global e-commerce client  
-- Resolved 30+ UX issues and led frontend code review sessions  
+- Delivered responsive UIs for a U.S.-based e-commerce client  
+- Resolved 30+ UX bugs, improved accessibility, and led frontend code reviews  
 
 ---
 
 ## 🧩 Projects  
 
-- **💰 Financio (MERN, Chart.js):** Expense tracker with real-time insights; 60% faster APIs  
-- **📸 Cloudinary AI SaaS:** Image/video transformation platform with JWT auth (Next.js, TypeScript)  
-- **🧠 ML Portfolio:** NLP vectorizers (TF-IDF, BoW), SGD classifier with L2 regularization  
+- **💰 Financio:** MERN-based expense tracker with real-time insights and 60% faster APIs  
+- **📸 Cloudinary AI SaaS:** Image/video transformation tool with LLM-based auto-captioning  
+- **🧠 ML Portfolio:** TF-IDF/BOW vectorizers, L2-regularized classifiers for sentiment analysis  
 
 ---
 
@@ -65,9 +67,10 @@ I'm a **Full-Stack Developer** with expertise in **MERN, AI, and cloud-native te
 
 ## 📜 Certifications  
 
-- Google Cloud: Cloud Engineering Specialization  
-- Applied AI & Machine Learning  
+- 🟢 **Google Cloud:** Cloud Engineering Specialization  
+- 🧠 **Applied AI & ML**  
+- 🧪 **Oracle Cloud Foundations**  
 
 ---
 
-## 🤝 Let's Connect & Build Something Great! 🚀  
+## 🤝 Let’s Connect & Build Something Great! 🚀
