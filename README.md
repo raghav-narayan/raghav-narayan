@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Raghav Narayan!
 
-I'm a **Full-Stack Developer** passionate about building **scalable, AI-powered web applications** using **MERN stack**, **Python**, and **cloud-native architectures**. I’ve helped optimize intelligent systems serving **1M+ users across 12+ countries**. Currently, I’m a **Software Engineer Intern at NVIT** and pursuing my **Master’s in Computer Science at UTA (GPA: 3.9)**.
+I'm a **Full-Stack Developer** passionate about building **scalable, AI-powered web applications** using **MERN stack**, **Python**, and **cloud-native architectures**. I’ve helped optimize intelligent systems serving **1M+ users across 12+ countries**. Currently, I’m a **Software Engineer Intern at NVIT** and completed my **Master’s in Computer Science at UTA (GPA: 3.9)**.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=raghav-narayan&style=flat-square&color=blue)
 
