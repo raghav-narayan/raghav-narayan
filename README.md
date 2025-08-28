@@ -88,19 +88,6 @@ Specialized in **MERN stack**, **Python**, and **cloud-native architectures**, I
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav-narayan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-narayan&layout=compact&theme=tokyonight)  
-
----
-
-## 🏆 GitHub Trophies  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=raghav-narayan&theme=darkhub&margin-w=15&margin-h=15)
-
----
-
 ## 🧠 LeetCode Stats  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav_Narayan?theme=dark&font=Source+Code+Pro&ext=heatmap)
