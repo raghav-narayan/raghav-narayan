@@ -2,8 +2,8 @@
 
 💻 **Full-Stack Software Engineer** | ☁️ **Cloud-Native Systems** | 🤖 **AI-Integrated Applications**  
 
-I have **3+ years** of experience delivering **end-to-end, scalable enterprise software** and **AI-powered features** across global platforms.  
-Specialized in **MERN stack**, **Python**, and **cloud-native architectures**, I’ve built systems impacting **1M+ users in 12+ countries**.  
+I have **3+ years** of experience delivering **end-to-end, scalable enterprise applications** and **AI-powered solutions** across global platforms.  
+Specialized in **backend APIs, cloud-native architectures, and MERN applications**, I’ve built systems impacting **1M+ users across 12+ countries**.  
 
 🎓 **M.S. in Computer Science** (GPA: 3.9) – University of Texas at Arlington  
 
@@ -13,84 +13,62 @@ Specialized in **MERN stack**, **Python**, and **cloud-native architectures**, I
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-narayan98)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raghav-narayan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://raghav-narayan.github.io)  
-[![Medium](https://img.shields.io/badge/Blog-12100E?style=flat&logo=medium&logoColor=white)](https://technotronic.medium.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-narayan98) · 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raghav-narayan) · 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://raghav-narayan.github.io) · 
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=flat&logo=medium&logoColor=white)](https://technotronic.medium.com/) · 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghav.narayan.98@gmail.com)  
 
 ---
 
-## 🛠 Skills & Tools  
+## 🛠 Skills  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-**Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**AI & ML:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+**Backend & APIs:** REST APIs, Microservices, FastAPI, Flask, Django, Node.js, Express.js  
+**Frontend:** React.js, Next.js, Angular, Redux, Tailwind CSS, HTML5, CSS3  
+**Databases:** PostgreSQL, MySQL, MongoDB (NoSQL), Database Modeling & Query Optimization  
+**Cloud & DevOps:** Microsoft Azure, Google Cloud Platform, Docker, Kubernetes, GitHub Actions, Bitbucket, Azure DevOps  
+**AI & Data Science:** Machine Learning, NLP, TensorFlow, Scikit-learn, OpenCV, LLMs  
+**Software Engineering:** Agile/Scrum, TDD, Git, Jira, Postman, Design Patterns, SDLC  
 
 ---
 
 ## 👨‍💼 Professional Experience  
 
 ### 🚀 NVIT – Software Engineer Intern *(Jan 2025 – May 2025)*  
-- Built **ILMS v1**: cloud-native government platform with **AI-driven biometric verification** (Azure Face API + Flask)  
-- Developed 15+ dashboards, multi-role access, automated payroll & onboarding workflows  
-- Designed CI/CD pipelines (Docker + Azure DevOps), cutting manual release effort by 40%  
+- Built **ILMS v1**, a cloud-native government platform with biometric verification.  
+- Developed FastAPI microservice integrating Azure Face API → reduced attendance errors by **95%**.  
+- Designed REST APIs with JWT/RBAC, containerized with Docker, and automated CI/CD pipelines.  
 
-### 🤖 Cognizant – Backend Engineer, Conversational AI *(Oct 2021 – Feb 2023)*  
-- Developed Node.js APIs for a **multi-lingual chatbot** in 12+ countries (100K MAUs)  
-- Reduced API latency by 30% via payload optimization & modularization  
-- Enhanced NLU using Azure Language Studio, improving contextual accuracy  
+### 🤖 Cognizant – Backend Engineer *(Oct 2021 – Feb 2023)*  
+- Delivered RESTful services for a **multilingual chatbot** (100K MAUs across 12+ countries, $1M+ impact).  
+- Improved API latency by **30%**; reduced QA bugs by **60%** through TDD and automated testing.  
+- Strengthened monitoring and observability with structured logging and Azure Monitor.  
 
 ### 🎨 Cognizant – Frontend Engineer *(Jan 2020 – Sep 2021)*  
-- Delivered responsive UIs for e-commerce platforms  
-- Fixed 30+ UX issues, improving accessibility & performance  
+- Built responsive UIs for e-commerce platforms; resolved 30+ UX issues.  
+- Improved accessibility compliance (WCAG) and optimized performance.  
 
 ---
 
 ## 🧩 Featured Projects  
 
-- **💰 Financio:** MERN-based expense tracker with JWT auth, state management, and real-time data visualization. Reduced API response time by 60%.  
-- **📸 Aura Cast:** AI-driven SaaS for media transformation — video compression, smart formatting, and LLM-based captioning — reducing manual work by 70%.  
-- **🧠 ML Portfolio:** Custom TF-IDF & BoW vectorizers, sentiment analysis models, and classifier benchmarking.  
-
+- **[AI Resume Builder](https://github.com/raghav-narayan/ai-resume-builder)** – Full-stack resume creator with **Gemini AI bullet generation**, Strapi CMS, Clerk auth, PDF export, and Vercel CI/CD.  
+- **[AuraCast](https://github.com/raghav-narayan/ai-cloudinary-saas)** – Next.js + Cloudinary SaaS for creators: video compression, thumbnail extraction, AI captions/hashtags (~70% manual effort saved).  
+- **[Financio](https://github.com/raghav-narayan/finance-tracker-mern)** – MERN finance tracker with JWT auth, expense analytics, Chart.js dashboards, and monthly PDF/CSV reports.  
 ---
 
 ## 📜 Certifications  
 
-- **Google Cloud Engineering Specialization**  
-- **Oracle Cloud Foundations**  
-- **Applied AI & Machine Learning**  
+- **Google Cloud Engineering Specialization** 
+- **Oracle Cloud Infrastructure Foundations** 
+- **Applied AI & Machine Learning** 
 
 ---
 
-## 🧠 LeetCode Stats  
+## 📈 Extras  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav_Narayan?theme=dark&font=Source+Code+Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav_Narayan?theme=dark&font=Source+Code+Pro&ext=heatmap)  
+✍️ Blog: [Technotronic on Medium](https://technotronic.medium.com/)  
 
 ---
 
