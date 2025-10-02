@@ -66,8 +66,6 @@ Specialized in **backend APIs, cloud-native architectures, and MERN applications
 ---
 
 ## 📈 Extras  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav_Narayan?theme=dark&font=Source+Code+Pro&ext=heatmap)  
 ✍️ Blog: [Technotronic on Medium](https://technotronic.medium.com/)  
 
 ---
