@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Raghav Narayan Ramachandran**
+# 👋 Hi, I’m **Raghav Narayan**
 
 💻 **Full-Stack Software Engineer** | ☁️ **Cloud-Native Systems** | 🤖 **AI-Integrated Applications**
 
