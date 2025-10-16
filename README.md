@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Raghav Narayan**
+# 👋 Hi, I’m **Raghav Narayan Ramachandran**
 
 💻 **Full-Stack Software Engineer** | ☁️ **Cloud-Native Systems** | 🤖 **AI-Integrated Applications**
 
@@ -32,83 +32,50 @@ My work spans **backend APIs, DevOps automation, and intelligent full-stack syst
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Professional Experience
 
-<details>
-<summary>🧪 <b>University of Texas at Arlington — Research Software Engineer</b>  (Jun 2025 – Present)</summary>
-
-📍 *Arlington, TX*  
-
+### 🧪 **University of Texas at Arlington — Research Software Engineer**  
+📍 Arlington, TX | *Jun 2025 – Present*  
 - Engineered a **Streamlit-based weather analytics platform**, containerized with PyInstaller; cut load times **40%** via caching and pipeline parallelization.  
 - Automated **GIS workflows** using GeoPandas/QGIS, reducing manual mapping effort **60%** and improving data reproducibility.  
 - Adapted **SILK reliability algorithms**, optimizing simulation speed 2–3× while maintaining 95%+ accuracy.  
 
-</details>
+---
 
-<details>
-<summary>🚀 <b>NVIT — Software Engineer Intern (Full Stack)</b>  (Jan 2025 – May 2025)</summary>
-
-📍 *Frisco, TX*  
-
+### 🚀 **NVIT — Software Engineer Intern (Full Stack)**  
+📍 Frisco, TX | *Jan 2025 – May 2025*  
 - Built **ILMS v1**, a government operations platform used by 5+ departments for attendance and payroll automation.  
 - Integrated **Azure Face API** + GPS geofencing with FastAPI microservice → cut attendance errors **95%**.  
 - Developed modular REST APIs (Node.js/Express + PostgreSQL) with JWT/RBAC auth.  
 - Automated deployments with Docker + Bitbucket CI/CD, reducing release effort **40%**.  
 
-</details>
+---
 
-<details>
-<summary>🤖 <b>Cognizant — Backend Engineer (Conversational AI)</b>  (Oct 2021 – Feb 2023)</summary>
-
-📍 *Chennai, India*  
-
-- Delivered **Azure-hosted chatbot backend** serving 100K MAUs in 12 countries (>$1M impact).  
+### 🤖 **Cognizant — Backend Engineer (Conversational AI)**  
+📍 Chennai, India | *Oct 2021 – Feb 2023*  
+- Delivered **Azure-hosted chatbot backend** serving 100K MAUs in 12 countries (>$1 M impact).  
 - Cut p95 latency **30%** by optimizing payload structures and service modularity.  
 - Introduced **TDD + automated tests**, reducing QA bugs **60%**.  
 - Strengthened observability via structured logging (Morgan) and Azure Monitor.  
 
-</details>
+---
 
-<details>
-<summary>🎨 <b>Cognizant — Frontend Engineer (Omni-Channel)</b>  (Jan 2020 – Sep 2021)</summary>
-
-📍 *Chennai, India*  
-
+### 🎨 **Cognizant — Frontend Engineer (Omni-Channel)**  
+📍 Chennai, India | *Jan 2020 – Sep 2021*  
 - Delivered WCAG-compliant, responsive UIs for U.S. e-commerce clients; resolved 30+ UI/UX issues.  
 - Conducted React training bootcamps and authored reusable component libraries to accelerate development.  
 
-</details>
+---
+
+## 🧩 Featured Projects
+
+- **[AI Resume Builder](https://github.com/raghav-narayan/ai-resume-builder)** — Full-stack app with Gemini AI bullet generation, Strapi CMS, Clerk auth, PDF export, and Vercel CI/CD.  
+- **[AuraCast](https://github.com/raghav-narayan/ai-cloudinary-saas)** — Next.js + Cloudinary SaaS tool with AI-generated captions & hashtags, saving ~70% manual effort.  
+- **[Financio](https://github.com/raghav-narayan/finance-tracker-mern)** — MERN finance tracker with JWT auth, Chart.js dashboards, and monthly PDF/CSV reports.  
 
 ---
 
-## 🧩 Featured Projects  
-
-<details>
-<summary>🤖 <b>AI Resume Builder</b> — <a href="https://github.com/raghav-narayan/ai-resume-builder">GitHub Repo</a></summary>
-
-Full-stack resume builder with **Gemini AI-powered bullet generation**, Strapi CMS, Clerk authentication, and Vercel CI/CD.  
-🧩 Features: AI role suggestions, PDF export, live preview, and reusable templates.  
-
-</details>
-
-<details>
-<summary>🎬 <b>AuraCast</b> — <a href="https://github.com/raghav-narayan/ai-cloudinary-saas">GitHub Repo</a></summary>
-
-Next.js + Cloudinary SaaS for creators featuring **AI captions, hashtags, and media automation**.  
-🚀 Saved ~70% manual media processing time.  
-
-</details>
-
-<details>
-<summary>💰 <b>Financio</b> — <a href="https://github.com/raghav-narayan/finance-tracker-mern">GitHub Repo</a></summary>
-
-MERN-based expense tracker with **JWT authentication**, Chart.js analytics dashboards, and automated monthly reports.  
-
-</details>
-
----
-
-## 🏅 Certifications  
+## 🏅 Certifications
 
 - Google Cloud Engineering Specialization  
 - Oracle Cloud Infrastructure Foundations  
